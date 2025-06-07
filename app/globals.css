@@ -9,12 +9,14 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #fefefe;
     --foreground: #ededed;
   }
 }
 
 body {
+  margin: 0;
+  padding: 0;
   color: var(--foreground);
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
@@ -25,3 +27,10 @@ body {
     text-wrap: balance;
   }
 }
+/* globals.css */
+html, body {
+  scroll-behavior: smooth; /* nonaktifkan agar tidak konflik dengan JS */
+  overscroll-behavior: none;
+  overflow-x: hidden;
+}
+
