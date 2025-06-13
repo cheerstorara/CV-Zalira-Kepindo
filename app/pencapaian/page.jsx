@@ -30,6 +30,7 @@ const data = [
   { id: 24, image: '/assets/sertifikat/24.PNG' },
 ];
 
+
 const cards = [
   {
     href: "https://instagram.com/cheerstorara",
