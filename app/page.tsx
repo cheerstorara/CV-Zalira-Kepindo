@@ -363,7 +363,7 @@ export default function Home() {
     <div className="max-w-6xl mx-auto">
       <SectionTitle className="text-black text-center">Proyek Saya</SectionTitle>
       <motion.div
-        style={{ height: '400px', position: 'relative' }}
+        style={{ height: '450px', position: 'relative' }}
         initial={{ opacity: 0, y: 30 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, ease: "easeOut" }}
