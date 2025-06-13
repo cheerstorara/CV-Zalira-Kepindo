@@ -252,7 +252,7 @@ export default function Home() {
               />
             </div>
             <a
-              href="/path-ke-resume.pdf"
+              href="https://drive.google.com/drive/folders/1RWnrGuF3_J1MnCN2je423Arm7U9vd0TG"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-4 py-1 rounded-3xl text-black font-sans font-bold text-white"
