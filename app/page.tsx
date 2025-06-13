@@ -252,7 +252,7 @@ export default function Home() {
               />
             </div>
             <a
-              href="https://drive.google.com/drive/folders/1RWnrGuF3_J1MnCN2je423Arm7U9vd0TG"
+              href="https://drive.google.com/file/d/1CTdBMzZs0kjeMWiZUV9HghF-tRo56H0G/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-4 py-1 rounded-3xl text-black font-sans font-bold text-white"
