@@ -19,7 +19,7 @@ const data = [
   { id: 13, image: '/assets/sertifikat/11.JPG' },
   { id: 14, image: '/assets/sertifikat/20.PNG' },
   { id: 15, image: '/assets/sertifikat/2.JPG' },
-  { id: 16, image: '/assets/sertifikat/1.JPG' },
+  { id: 16, image: '/assets/sertifikat/1.jpg' },
   { id: 17, image: '/assets/sertifikat/3.JPG' },
   { id: 18, image: '/assets/sertifikat/4.JPG' },
   { id: 19, image: '/assets/sertifikat/7.JPG' },
