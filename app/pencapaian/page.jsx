@@ -28,6 +28,7 @@ const data = [
   { id: 22, image: '/assets/sertifikat/19.JPG' },
   { id: 23, image: '/assets/sertifikat/21.JPG' },
   { id: 24, image: '/assets/sertifikat/24.PNG' },
+  { id: 25, image: '/assets/sertifikat/25.PNG' },
 ];
 
 
