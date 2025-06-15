@@ -18,6 +18,9 @@ const IMGS: string[] = [
   "/assets/rollinggallery/React.jpg",
   "/assets/rollinggallery/reactbits.png",
   "/assets/rollinggallery/Tailwind CSS.jpg",
+  "/assets/rollinggallery/JavaScript.jpg",
+  "/assets/rollinggallery/Next JS.jpg",
+  "/assets/rollinggallery/PHP.jpg",
 ];
 
 interface RollingGalleryProps {
@@ -47,7 +50,7 @@ const RollingGallery: React.FC<RollingGalleryProps> = ({
   const anglePerFace = 360 / faceCount;
 
   // Radius tetap
-  const radius = isScreenSizeSm ? 60 : 200;
+  const radius = isScreenSizeSm ? 100 : 280;
 
   // Hitung lebar wajah berdasarkan sudut
   const faceWidth = 170;

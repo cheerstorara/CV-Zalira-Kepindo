@@ -16,14 +16,14 @@ const projects: Project[] = [
   {
       id: 0,
       title: "UI/UX Apotek dan Klinik Dokter Universitas Teknologi Digital Indonesia Sehat",
-      description: "Aplikasi Mobile Apotek dan Klik Dokter",
+      description: "Desain Aplikasi Mobile Apotek dan Klinik Dokter",
       imageUrl: "/assets/sertifikat/RumahSakit.png",
       figmaUrl: "https://www.figma.com/design/b8pE4wzZWprxBOEOUJHx0I/Rumah-Sakit?node-id=0-1&t=jrhoMLRgoabeOIle-1",
   },
   {
     id: 1,
     title: "UI/UX Roomzy",
-    description: "Aplikasi Mobile Pemesanan Kamar Hotel ",
+    description: "Desain Aplikasi Mobile Pemesanan Kamar Hotel",
     imageUrl: "/assets/sertifikat/Roomzy.png",
     figmaUrl: "https://www.figma.com/design/RHzYA0pXjSQuZxmQ8H8HEC/UI-UX-PERHOTELAN?node-id=106-595&t=Q1egBqv9SRpoQvG4-0",
   },
@@ -37,9 +37,23 @@ const projects: Project[] = [
   {
     id: 3,
     title: "UI/UX Lolipop",
-    description: "Website dengan smart animate",
+    description: "Website smart animate dengan menggunakan tools Figma",
     imageUrl: "/assets/sertifikat/Lolipop.png",
     figmaUrl: "https://www.figma.com/design/etYkTDx5Vd36r4mQL680EH/Lolipop?node-id=0-1&p=f&t=8lIN2YAqbJOzqPvl-0"
+  },
+  {
+    id: 4,
+    title: "Tic Tac Toe Game",
+    description: "Game Website sederhana menggunakan bahasa pemrograman JavaScript",
+    imageUrl: "/assets/sertifikat/TicTacToe.png",
+    figmaUrl: "https://tic-tac-toe-khaki-phi.vercel.app/"
+  },
+  {
+    id: 5,
+    title: "Personal Website",
+    description: "Situs pribadi dan portofolio milik Zalira Kepindo",
+    imageUrl: "/assets/sertifikat/Portofolio.png",
+    figmaUrl: "https://cv-zalira-kepindo.vercel.app/"
   },
 ];
 
